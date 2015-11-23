@@ -1,4 +1,4 @@
-### v5.5.3
+### v5.2.3
 
 * Fix a typo introduced by last release
 
